@@ -1,0 +1,8 @@
+1°, Primero o primer, 1°,primera
+2°, Segundo, 2° segunda
+3°, tercero
+4°, cuarto
+5°, quinto
+6°, sexto
+7°, septimo
+8°, octavo
